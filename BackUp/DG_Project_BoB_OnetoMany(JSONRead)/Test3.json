@@ -1,0 +1,15 @@
+{
+  "table": "product",
+  "columns": [
+    {
+      "name": "name",
+      "type": "string",
+      "range": 50
+    },
+    {
+      "name": "company",
+      "type": "string",
+      "range": 50
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "table": "User",
+  "columns": [
+    {
+      "name": "fullname",
+      "type": "string",
+      "range": 50
+    },
+    {
+      "name": "surname",
+      "type": "string",
+      "range": 50
+    },
+    {
+      "name": "address",
+      "type": "string",
+      "range": 50
+    },
+    {
+      "name": "age",
+      "type": "number",
+      "range": "20-100"
+    },
+    {
+      "name": "company",
+      "type": "string",
+      "range": 50
+    },
+    {
+      "name": "creatingdate",
+      "type": "date",
+      "range": 50
+    }
+  ]
+}

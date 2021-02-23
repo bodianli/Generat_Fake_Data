@@ -1,0 +1,7 @@
+CREATE TABLE Student (
+age Integer(5),
+name Varchar(50),
+salary Varchar(50),
+address Varchar(50),
+)
+

@@ -1,0 +1,25 @@
+{
+  "table": "teacher",
+  "columns": [
+    {
+      "name": "fullname",
+      "type": "string",
+      "range": 50
+    },
+    {
+      "name": "surname",
+      "type": "string",
+      "range": 50
+    },
+    {
+      "name": "age",
+      "type": "number",
+      "range": "20-100"
+    },
+    {
+      "name": "subject",
+      "type": "string",
+      "range": 50
+    }
+  ]
+}
